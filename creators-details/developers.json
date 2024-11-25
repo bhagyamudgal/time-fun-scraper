@@ -1,0 +1,44 @@
+[
+  {
+    "name": "0xQuit",
+    "url": "https://time.fun/0xquit",
+    "minutesPurchased": 14,
+    "pricePerMinute": 3.45,
+    "marketCap": 48
+  },
+  {
+    "name": "m1guelpf",
+    "url": "https://time.fun/m1guelpf",
+    "minutesPurchased": 10,
+    "pricePerMinute": 3.09,
+    "marketCap": 31
+  },
+  {
+    "name": "gajeshnaik",
+    "url": "https://time.fun/gajeshnaik",
+    "minutesPurchased": 52,
+    "pricePerMinute": 7.03,
+    "marketCap": 366
+  },
+  {
+    "name": "schroyar",
+    "url": "https://time.fun/schroyar",
+    "minutesPurchased": 22,
+    "pricePerMinute": 4.19,
+    "marketCap": 92
+  },
+  {
+    "name": "0xl3on",
+    "url": "https://time.fun/0xl3on",
+    "minutesPurchased": 81,
+    "pricePerMinute": 9.87,
+    "marketCap": 799
+  },
+  {
+    "name": "ORetsyo",
+    "url": "https://time.fun/oretsyo",
+    "minutesPurchased": 54,
+    "pricePerMinute": 7.22,
+    "marketCap": 390
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "boldleonidas",
+    "url": "https://time.fun/boldleonidas",
+    "minutesPurchased": 39,
+    "pricePerMinute": 5.79,
+    "marketCap": 226
+  },
+  {
+    "name": "pyrtbilly",
+    "url": "https://time.fun/pyrtbilly",
+    "minutesPurchased": 2,
+    "pricePerMinute": 2.36,
+    "marketCap": 5
+  },
+  {
+    "name": "HugoMartingale",
+    "url": "https://time.fun/hugomartingale",
+    "minutesPurchased": 22,
+    "pricePerMinute": 4.19,
+    "marketCap": 92
+  },
+  {
+    "name": "anniejorgensen_",
+    "url": "https://time.fun/anniejorgensen_",
+    "minutesPurchased": 7,
+    "pricePerMinute": 2.81,
+    "marketCap": 20
+  }
+]

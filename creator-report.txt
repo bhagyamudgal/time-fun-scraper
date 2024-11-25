@@ -1,0 +1,635 @@
+Time.fun Creators Report
+Generated on: 11/25/2024, 8:14:27 PM
+
+Summary
+=======
+Total Creators: 98
+Total Market Cap: $129,726
+
+==================================================
+
+
+Data analysis
+=============
+
+Creator: andrewhong5297
+URL: https://time.fun/andrewhong5297
+Minutes Purchased: 54
+Price per Minute: $7.24
+Market Cap: $391
+--------------------------------------------------
+Creator: hildobby_
+URL: https://time.fun/hildobby_
+Minutes Purchased: 53
+Price per Minute: $7.14
+Market Cap: $378
+--------------------------------------------------
+
+Developers
+==========
+
+Creator: 0xl3on
+URL: https://time.fun/0xl3on
+Minutes Purchased: 81
+Price per Minute: $9.87
+Market Cap: $799
+--------------------------------------------------
+Creator: ORetsyo
+URL: https://time.fun/oretsyo
+Minutes Purchased: 54
+Price per Minute: $7.22
+Market Cap: $390
+--------------------------------------------------
+Creator: gajeshnaik
+URL: https://time.fun/gajeshnaik
+Minutes Purchased: 52
+Price per Minute: $7.03
+Market Cap: $366
+--------------------------------------------------
+Creator: schroyar
+URL: https://time.fun/schroyar
+Minutes Purchased: 22
+Price per Minute: $4.19
+Market Cap: $92
+--------------------------------------------------
+Creator: 0xQuit
+URL: https://time.fun/0xquit
+Minutes Purchased: 14
+Price per Minute: $3.45
+Market Cap: $48
+--------------------------------------------------
+Creator: m1guelpf
+URL: https://time.fun/m1guelpf
+Minutes Purchased: 10
+Price per Minute: $3.09
+Market Cap: $31
+--------------------------------------------------
+
+Founders
+========
+
+Creator: nikitabier
+URL: https://time.fun/nikitabier
+Minutes Purchased: 565
+Price per Minute: $70.71
+Market Cap: $39,952
+--------------------------------------------------
+Creator: 0xMert_
+URL: https://time.fun/0xmert_
+Minutes Purchased: 412
+Price per Minute: $48.73
+Market Cap: $20,075
+--------------------------------------------------
+Creator: blknoiz06
+URL: https://time.fun/blknoiz06
+Minutes Purchased: 410
+Price per Minute: $48.46
+Market Cap: $19,867
+--------------------------------------------------
+Creator: 0xKawz
+URL: https://time.fun/0xkawz
+Minutes Purchased: 255
+Price per Minute: $28.81
+Market Cap: $7,347
+--------------------------------------------------
+Creator: lawmaster
+URL: https://time.fun/lawmaster
+Minutes Purchased: 149
+Price per Minute: $16.88
+Market Cap: $2,515
+--------------------------------------------------
+Creator: tier10k
+URL: https://time.fun/tier10k
+Minutes Purchased: 131
+Price per Minute: $14.97
+Market Cap: $1,962
+--------------------------------------------------
+Creator: lemiscate
+URL: https://time.fun/lemiscate
+Minutes Purchased: 90
+Price per Minute: $10.77
+Market Cap: $969
+--------------------------------------------------
+Creator: anildelphi
+URL: https://time.fun/anildelphi
+Minutes Purchased: 76
+Price per Minute: $9.37
+Market Cap: $712
+--------------------------------------------------
+Creator: andrewhong5297
+URL: https://time.fun/andrewhong5297
+Minutes Purchased: 54
+Price per Minute: $7.22
+Market Cap: $390
+--------------------------------------------------
+Creator: jaredhecht
+URL: https://time.fun/jaredhecht
+Minutes Purchased: 35
+Price per Minute: $5.41
+Market Cap: $189
+--------------------------------------------------
+Creator: wabdoteth
+URL: https://time.fun/wabdoteth
+Minutes Purchased: 34
+Price per Minute: $5.32
+Market Cap: $181
+--------------------------------------------------
+Creator: Dogetoshi
+URL: https://time.fun/dogetoshi
+Minutes Purchased: 26
+Price per Minute: $4.57
+Market Cap: $119
+--------------------------------------------------
+Creator: Punk9277
+URL: https://time.fun/punk9277
+Minutes Purchased: 26
+Price per Minute: $4.57
+Market Cap: $119
+--------------------------------------------------
+Creator: smyyguy
+URL: https://time.fun/smyyguy
+Minutes Purchased: 23
+Price per Minute: $4.29
+Market Cap: $99
+--------------------------------------------------
+Creator: buffalu__
+URL: https://time.fun/buffalu__
+Minutes Purchased: 18
+Price per Minute: $3.82
+Market Cap: $69
+--------------------------------------------------
+Creator: AlexMasmej
+URL: https://time.fun/alexmasmej
+Minutes Purchased: 10
+Price per Minute: $3.09
+Market Cap: $31
+--------------------------------------------------
+Creator: hmalviya9
+URL: https://time.fun/hmalviya9
+Minutes Purchased: 7
+Price per Minute: $2.81
+Market Cap: $20
+--------------------------------------------------
+Creator: Eeazy_Weezy
+URL: https://time.fun/eeazy_weezy
+Minutes Purchased: 7
+Price per Minute: $2.81
+Market Cap: $20
+--------------------------------------------------
+Creator: 0xZoZoZo
+URL: https://time.fun/0xzozozo
+Minutes Purchased: 5
+Price per Minute: $2.63
+Market Cap: $13
+--------------------------------------------------
+Creator: antoniogm
+URL: https://time.fun/antoniogm
+Minutes Purchased: 2
+Price per Minute: $2.36
+Market Cap: $5
+--------------------------------------------------
+Creator: sergitosergito
+URL: https://time.fun/sergitosergito
+Minutes Purchased: 2
+Price per Minute: $2.36
+Market Cap: $5
+--------------------------------------------------
+Creator: mikedemarais
+URL: https://time.fun/mikedemarais
+Minutes Purchased: 1
+Price per Minute: $2.26
+Market Cap: $2
+--------------------------------------------------
+
+Influencers
+===========
+
+Creator: 0xSisyphus
+URL: https://time.fun/0xsisyphus
+Minutes Purchased: 148
+Price per Minute: $16.77
+Market Cap: $2,482
+--------------------------------------------------
+Creator: basedkarbon
+URL: https://time.fun/basedkarbon
+Minutes Purchased: 135
+Price per Minute: $15.40
+Market Cap: $2,078
+--------------------------------------------------
+Creator: wallstreetbets
+URL: https://time.fun/wallstreetbets
+Minutes Purchased: 127
+Price per Minute: $14.56
+Market Cap: $1,849
+--------------------------------------------------
+Creator: icebergy_
+URL: https://time.fun/icebergy_
+Minutes Purchased: 109
+Price per Minute: $12.69
+Market Cap: $1,384
+--------------------------------------------------
+Creator: Pancakesbrah
+URL: https://time.fun/pancakesbrah
+Minutes Purchased: 81
+Price per Minute: $9.87
+Market Cap: $799
+--------------------------------------------------
+Creator: gabrielhaines
+URL: https://time.fun/gabrielhaines
+Minutes Purchased: 54
+Price per Minute: $7.22
+Market Cap: $390
+--------------------------------------------------
+Creator: 0xBreadguy
+URL: https://time.fun/0xbreadguy
+Minutes Purchased: 51
+Price per Minute: $6.94
+Market Cap: $354
+--------------------------------------------------
+Creator: 0xCaptainLevi
+URL: https://time.fun/0xcaptainlevi
+Minutes Purchased: 47
+Price per Minute: $6.55
+Market Cap: $308
+--------------------------------------------------
+Creator: cometcalls
+URL: https://time.fun/cometcalls
+Minutes Purchased: 39
+Price per Minute: $5.79
+Market Cap: $226
+--------------------------------------------------
+Creator: beaniemaxi
+URL: https://time.fun/beaniemaxi
+Minutes Purchased: 34
+Price per Minute: $5.32
+Market Cap: $181
+--------------------------------------------------
+Creator: OlimpioCrypto
+URL: https://time.fun/olimpiocrypto
+Minutes Purchased: 34
+Price per Minute: $5.32
+Market Cap: $181
+--------------------------------------------------
+Creator: franklinisbored
+URL: https://time.fun/franklinisbored
+Minutes Purchased: 34
+Price per Minute: $5.32
+Market Cap: $181
+--------------------------------------------------
+Creator: yogurt_eth
+URL: https://time.fun/yogurt_eth
+Minutes Purchased: 33
+Price per Minute: $5.22
+Market Cap: $172
+--------------------------------------------------
+Creator: LouisCooper_
+URL: https://time.fun/louiscooper_
+Minutes Purchased: 22
+Price per Minute: $4.19
+Market Cap: $92
+--------------------------------------------------
+Creator: DefiIgnas
+URL: https://time.fun/defiignas
+Minutes Purchased: 21
+Price per Minute: $4.10
+Market Cap: $86
+--------------------------------------------------
+Creator: Deebs_DeFi
+URL: https://time.fun/deebs_defi
+Minutes Purchased: 21
+Price per Minute: $4.10
+Market Cap: $86
+--------------------------------------------------
+Creator: ZoomerOracle
+URL: https://time.fun/zoomeroracle
+Minutes Purchased: 20
+Price per Minute: $4.01
+Market Cap: $80
+--------------------------------------------------
+Creator: CValley_
+URL: https://time.fun/cvalley_
+Minutes Purchased: 18
+Price per Minute: $3.82
+Market Cap: $69
+--------------------------------------------------
+Creator: coopernicus01
+URL: https://time.fun/coopernicus01
+Minutes Purchased: 18
+Price per Minute: $3.82
+Market Cap: $69
+--------------------------------------------------
+Creator: patty_fi
+URL: https://time.fun/patty_fi
+Minutes Purchased: 15
+Price per Minute: $3.55
+Market Cap: $53
+--------------------------------------------------
+Creator: jconorgrogan
+URL: https://time.fun/jconorgrogan
+Minutes Purchased: 15
+Price per Minute: $3.55
+Market Cap: $53
+--------------------------------------------------
+Creator: 0xQuit
+URL: https://time.fun/0xquit
+Minutes Purchased: 14
+Price per Minute: $3.45
+Market Cap: $48
+--------------------------------------------------
+Creator: gmEthereum
+URL: https://time.fun/gmethereum
+Minutes Purchased: 12
+Price per Minute: $3.27
+Market Cap: $39
+--------------------------------------------------
+Creator: 0xjaypeg
+URL: https://time.fun/0xjaypeg
+Minutes Purchased: 11
+Price per Minute: $3.18
+Market Cap: $35
+--------------------------------------------------
+Creator: SCHIZO_FREQ
+URL: https://time.fun/schizo_freq
+Minutes Purchased: 9
+Price per Minute: $2.99
+Market Cap: $27
+--------------------------------------------------
+Creator: Teeznutz11
+URL: https://time.fun/teeznutz11
+Minutes Purchased: 9
+Price per Minute: $2.99
+Market Cap: $27
+--------------------------------------------------
+Creator: quid_defi
+URL: https://time.fun/quid_defi
+Minutes Purchased: 9
+Price per Minute: $2.99
+Market Cap: $27
+--------------------------------------------------
+Creator: ThisIsNuse
+URL: https://time.fun/thisisnuse
+Minutes Purchased: 8
+Price per Minute: $2.90
+Market Cap: $23
+--------------------------------------------------
+Creator: alpha_pls
+URL: https://time.fun/alpha_pls
+Minutes Purchased: 8
+Price per Minute: $2.90
+Market Cap: $23
+--------------------------------------------------
+Creator: SHL0MS
+URL: https://time.fun/shl0ms
+Minutes Purchased: 8
+Price per Minute: $2.90
+Market Cap: $23
+--------------------------------------------------
+
+Investors
+=========
+
+Creator: pet3rpan_
+URL: https://time.fun/pet3rpan_
+Minutes Purchased: 146
+Price per Minute: $16.56
+Market Cap: $2,418
+--------------------------------------------------
+Creator: santiagoroel
+URL: https://time.fun/santiagoroel
+Minutes Purchased: 145
+Price per Minute: $16.45
+Market Cap: $2,386
+--------------------------------------------------
+Creator: QwQiao
+URL: https://time.fun/qwqiao
+Minutes Purchased: 109
+Price per Minute: $12.69
+Market Cap: $1,384
+--------------------------------------------------
+Creator: anildelphi
+URL: https://time.fun/anildelphi
+Minutes Purchased: 76
+Price per Minute: $9.37
+Market Cap: $712
+--------------------------------------------------
+Creator: DewhalesCapital
+URL: https://time.fun/dewhalescapital
+Minutes Purchased: 75
+Price per Minute: $9.27
+Market Cap: $696
+--------------------------------------------------
+Creator: RyanWatkins_
+URL: https://time.fun/ryanwatkins_
+Minutes Purchased: 57
+Price per Minute: $7.51
+Market Cap: $428
+--------------------------------------------------
+Creator: FranklinBi
+URL: https://time.fun/franklinbi
+Minutes Purchased: 54
+Price per Minute: $7.22
+Market Cap: $390
+--------------------------------------------------
+Creator: hildobby_
+URL: https://time.fun/hildobby_
+Minutes Purchased: 53
+Price per Minute: $7.13
+Market Cap: $378
+--------------------------------------------------
+Creator: veradittakit
+URL: https://time.fun/veradittakit
+Minutes Purchased: 44
+Price per Minute: $6.27
+Market Cap: $276
+--------------------------------------------------
+Creator: simonbuilds
+URL: https://time.fun/simonbuilds
+Minutes Purchased: 37
+Price per Minute: $5.60
+Market Cap: $207
+--------------------------------------------------
+Creator: jaredhecht
+URL: https://time.fun/jaredhecht
+Minutes Purchased: 35
+Price per Minute: $5.41
+Market Cap: $189
+--------------------------------------------------
+Creator: mhdempsey
+URL: https://time.fun/mhdempsey
+Minutes Purchased: 27
+Price per Minute: $4.66
+Market Cap: $126
+--------------------------------------------------
+Creator: MapleLeafCap
+URL: https://time.fun/mapleleafcap
+Minutes Purchased: 26
+Price per Minute: $4.57
+Market Cap: $119
+--------------------------------------------------
+Creator: mdudas
+URL: https://time.fun/mdudas
+Minutes Purchased: 24
+Price per Minute: $4.38
+Market Cap: $105
+--------------------------------------------------
+Creator: 0xShack
+URL: https://time.fun/0xshack
+Minutes Purchased: 24
+Price per Minute: $4.38
+Market Cap: $105
+--------------------------------------------------
+Creator: mattyryze
+URL: https://time.fun/mattyryze
+Minutes Purchased: 22
+Price per Minute: $4.19
+Market Cap: $92
+--------------------------------------------------
+Creator: rriccio
+URL: https://time.fun/rriccio
+Minutes Purchased: 22
+Price per Minute: $4.19
+Market Cap: $92
+--------------------------------------------------
+Creator: mhonkasalo
+URL: https://time.fun/mhonkasalo
+Minutes Purchased: 17
+Price per Minute: $3.73
+Market Cap: $63
+--------------------------------------------------
+Creator: mikojava
+URL: https://time.fun/mikojava
+Minutes Purchased: 17
+Price per Minute: $3.73
+Market Cap: $63
+--------------------------------------------------
+Creator: gmEthereum
+URL: https://time.fun/gmethereum
+Minutes Purchased: 12
+Price per Minute: $3.27
+Market Cap: $39
+--------------------------------------------------
+Creator: gaby_goldberg
+URL: https://time.fun/gaby_goldberg
+Minutes Purchased: 11
+Price per Minute: $3.18
+Market Cap: $35
+--------------------------------------------------
+Creator: winnielaux_
+URL: https://time.fun/winnielaux_
+Minutes Purchased: 6
+Price per Minute: $2.72
+Market Cap: $16
+--------------------------------------------------
+Creator: veratheape
+URL: https://time.fun/veratheape
+Minutes Purchased: 5
+Price per Minute: $2.63
+Market Cap: $13
+--------------------------------------------------
+Creator: derekedws
+URL: https://time.fun/derekedws
+Minutes Purchased: 4
+Price per Minute: $2.54
+Market Cap: $10
+--------------------------------------------------
+Creator: DangerWillRobin
+URL: https://time.fun/dangerwillrobin
+Minutes Purchased: 3
+Price per Minute: $2.45
+Market Cap: $7
+--------------------------------------------------
+Creator: 0xsmac
+URL: https://time.fun/0xsmac
+Minutes Purchased: 3
+Price per Minute: $2.45
+Market Cap: $7
+--------------------------------------------------
+Creator: katiewav
+URL: https://time.fun/katiewav
+Minutes Purchased: 2
+Price per Minute: $2.36
+Market Cap: $5
+--------------------------------------------------
+
+Personalities
+=============
+
+Creator: boldleonidas
+URL: https://time.fun/boldleonidas
+Minutes Purchased: 39
+Price per Minute: $5.79
+Market Cap: $226
+--------------------------------------------------
+Creator: HugoMartingale
+URL: https://time.fun/hugomartingale
+Minutes Purchased: 22
+Price per Minute: $4.19
+Market Cap: $92
+--------------------------------------------------
+Creator: anniejorgensen_
+URL: https://time.fun/anniejorgensen_
+Minutes Purchased: 7
+Price per Minute: $2.81
+Market Cap: $20
+--------------------------------------------------
+Creator: pyrtbilly
+URL: https://time.fun/pyrtbilly
+Minutes Purchased: 2
+Price per Minute: $2.36
+Market Cap: $5
+--------------------------------------------------
+
+Time.fun team
+=============
+
+Creator: 0xKawz
+URL: https://time.fun/0xkawz
+Minutes Purchased: 255
+Price per Minute: $28.81
+Market Cap: $7,347
+--------------------------------------------------
+Creator: 0xl3on
+URL: https://time.fun/0xl3on
+Minutes Purchased: 81
+Price per Minute: $9.87
+Market Cap: $799
+--------------------------------------------------
+Creator: Pancakesbrah
+URL: https://time.fun/pancakesbrah
+Minutes Purchased: 81
+Price per Minute: $9.87
+Market Cap: $799
+--------------------------------------------------
+Creator: PedroFounder
+URL: https://time.fun/pedrofounder
+Minutes Purchased: 74
+Price per Minute: $9.18
+Market Cap: $679
+--------------------------------------------------
+Creator: ORetsyo
+URL: https://time.fun/oretsyo
+Minutes Purchased: 54
+Price per Minute: $7.22
+Market Cap: $390
+--------------------------------------------------
+Creator: mempooIed
+URL: https://time.fun/mempooied
+Minutes Purchased: 34
+Price per Minute: $5.32
+Market Cap: $181
+--------------------------------------------------
+
+Trading analysis
+================
+
+Creator: ColdBloodShill
+URL: https://time.fun/coldbloodshill
+Minutes Purchased: 39
+Price per Minute: $5.79
+Market Cap: $226
+--------------------------------------------------
+
+Summary
+=======
+Total Creators: 196
+Total Market Cap: $259,452
